@@ -6,6 +6,10 @@ public class DurgaController
     {
     	System.out.println("Hello");
     	System.out.println("HELLO");
+
     	System.out.println("hello");
+
+    	System.out.println("Hello");
+
     }
 }
